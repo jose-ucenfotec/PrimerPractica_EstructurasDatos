@@ -2,7 +2,6 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class Ticket{
-    //Atributos
     private String descripcion;
     private String nombreCompleto;
     private String prioridad;
