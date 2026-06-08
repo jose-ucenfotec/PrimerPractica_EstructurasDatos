@@ -1,5 +1,4 @@
 public class NodoLista{
-    //Atributos
     private Ticket ticket;
     private NodoLista siguiente;
 
