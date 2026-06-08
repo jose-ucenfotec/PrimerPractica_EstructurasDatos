@@ -6,7 +6,6 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
 public class Menu{
-    //Atributos
     private static final BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
     private ListaEnlazada listaTickets;
     private ColaPrioridad colaTickets;
