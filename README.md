@@ -1,2 +1,2 @@
 # PrimerPractica_EstructurasDatos
-Repo destinado para la primer practica del curso
+Estudiante: Jose Barrantes Saenz
