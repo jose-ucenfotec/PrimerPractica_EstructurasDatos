@@ -7,5 +7,3 @@ Proyecto desarrollado para el curso de Estructuras de Datos, Universidad Cenfote
 - José Ricardo Barrantes Sáenz
 - Julián Alfonso Cerdas Badilla
 - Flory Alexandra Gamboa Hernández
-
-Universidad Cenfotec · Estructuras de Datos
